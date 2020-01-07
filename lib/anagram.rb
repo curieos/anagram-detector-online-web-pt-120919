@@ -10,5 +10,6 @@ class Anagram
     collection = []
     words.each do |word|
       
+    end
   end
 end
