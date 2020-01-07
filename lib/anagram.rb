@@ -6,7 +6,9 @@ class Anagram
     @word = word
   end
   
-  def match(phrase)
-    
+  def match(words)
+    collection = []
+    words.each do |word|
+      
   end
 end
