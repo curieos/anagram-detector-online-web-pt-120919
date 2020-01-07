@@ -6,7 +6,7 @@ class Anagram
     @phrase = phrase
   end
   
-  def match
+  def match()
     
   end
 end
